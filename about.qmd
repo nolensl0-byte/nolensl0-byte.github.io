@@ -13,7 +13,12 @@ about:
     - icon: github
       text: Github
       href: https://github.com
-
 ---
 
 About this blog
+
+This blog is a portfolio of the data story projects I have made in ESCI222. They will mainly be centered around sustainability. Hope you enjoy!
+
+About Me!
+
+Hi, my name is Sophie Nolen and I was a student in Dr. Ezells data story telling in sustainable development this semester. I am currently a sophmore and I am major in natural resources and environmental studies. I took this class because I found it interesting and it counts towards my minor. I learned a very valuable lesson in the is class and that is R Studio and how to deal with data. This will come in handy in other data focused classes and it looks good when looking for a job. I hope to continue learning about data science and what it has to offer.

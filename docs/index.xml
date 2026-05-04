@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>blog</title>
+<link>https://your-website-url.example.com/</link>
+<atom:link href="https://your-website-url.example.com/index.xml" rel="self" type="application/rss+xml"/>
+<description>A blog built with Quarto</description>
+<generator>quarto-1.8.25</generator>
+<lastBuildDate>Mon, 04 May 2026 05:00:00 GMT</lastBuildDate>
+<item>
+  <title>Sewanee Climate</title>
+  <dc:creator>Sophie Nolen</dc:creator>
+  <link>https://your-website-url.example.com/posts/2026-05-04-data-story-4/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><a href="https://www.youtube.com/watch?v=mb7vLKrVm5I">link to video</a></p>
+<p>Sewanee is a very environmentally aware place. Everyone here is aware of climate change and how it is going to affect us. This data being explored is from our facilities department. Using this data we can determine if there is a relationship between the rain fall and the temperatures throughout the years and months. Come with me as we dive into this data set and explore Sewanee’s data.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://your-website-url.example.com/posts/2026-05-04-data-story-4/image.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+</figure>
+</div>
+
+
+
+ ]]></description>
+  <guid>https://your-website-url.example.com/posts/2026-05-04-data-story-4/</guid>
+  <pubDate>Mon, 04 May 2026 05:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>gardening and the environment</title>
+  <dc:creator>Sophie Nolen</dc:creator>
+  <link>https://your-website-url.example.com/posts/2026-05-04-data-story-3/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><a href="https://github.com/nolensl0-byte/data_story_3">link to text</a></p>
+<p>Rising living costs, particularly for groceries, further highlight how poverty affects both developing and wealthier countries. I found an article discussing the conversation between a reporter and older Canadian lady. She goes into detail about the rise in cost when it comes to housing and groceries. This goes to show that even in higher-income countries, more people are experiencing food insecurity as wages fail to keep up with rising prices. This reflects a broader reality: poverty is a global issue shaped by economic systems, inequality, and external shocks. Achieving the “No Poverty” goal will therefore require not only reducing income poverty but also addressing systemic issues like inflation, food access, and economic inequality worldwide.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://your-website-url.example.com/posts/2026-05-04-data-story-3/image.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+</figure>
+</div>
+
+
+
+ ]]></description>
+  <guid>https://your-website-url.example.com/posts/2026-05-04-data-story-3/</guid>
+  <pubDate>Mon, 04 May 2026 05:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Wildfire and Climate Change</title>
+  <dc:creator>Sophie Nolen</dc:creator>
+  <link>https://your-website-url.example.com/posts/2026-05-04-data-story-2/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><a href="https://nolensl0-byte.github.io/wildfire/">link to text</a></p>
+<p>Wildfires are becoming the “new normal”. In all of these countries they are trying different strategies to help prevent wildfires from becoming our “new normal”. With wildfires becoming so common, this increases the CO2 emissions. CO2 emissions are so important when talking about climate change because, this gas is acting as a blanket in the atmosphere and keeping all of the other harmful emissions in the lowest level of the atmosphere that we breath in. With the increase in greenhouse gasses from wildfires this affects our climate and is increasing the temperature and dryness of the Earth. With a hotter and dryer climate this will increase the risk of wildfires everywhere, which will then start over the whole process with releasing even more CO2. So, the more CO2 released warms the Earth which increases the amount of wildfires and then that will cycle back to releasing more CO2 and so on.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://your-website-url.example.com/posts/2026-05-04-data-story-2/thumbnail.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+</figure>
+</div>
+
+
+
+ ]]></description>
+  <guid>https://your-website-url.example.com/posts/2026-05-04-data-story-2/</guid>
+  <pubDate>Mon, 04 May 2026 05:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Sewanee Management Plan</title>
+  <dc:creator>Sophie Nolen</dc:creator>
+  <link>https://your-website-url.example.com/posts/2026-05-04-data-story-5/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><a href="https://www.youtube.com/watch?v=HF4nlI_DsjU">link to video</a></p>
+<p>I have created a data entry app for my forestry lab group to help collect the data of out sites for our stand. This project is focused on making a future management plan for compartment 60. This compartment has a rare species of hill cane call Arundinaria Appilachiana. This hill cane was discovered on campus in 2019 and the university has continued to manage and study it. The mystery of the plant is that the university has never witnessed it bloom. This means it hasn’t been reproducing. So, this plan is experiment with the forest conditions to see what is right for this plant to bloom.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://your-website-url.example.com/posts/2026-05-04-data-story-5/image.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+</figure>
+</div>
+
+
+
+ ]]></description>
+  <guid>https://your-website-url.example.com/posts/2026-05-04-data-story-5/</guid>
+  <pubDate>Mon, 04 May 2026 05:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Climate Change and CO2</title>
+  <dc:creator>Sophie Nolen</dc:creator>
+  <link>https://your-website-url.example.com/posts/2026-05-04-data-story-1/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><a href="https://nolensl0-byte.github.io/energy/">link to text</a></p>
+<p>These plots are comparing the data of GDP per capita, years covered, CO2 emissions, temperature change due to CO2 emissions, energy sources, and the cost of those energy sources. Out of the 4 graphs 3 graphs compare 4 countries. These countries are the United States, Brazil, Japan, and Italy. These comparisons caan allow someone to view the status of the the sustainability goals in tone of the countries shown.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://your-website-url.example.com/posts/2026-05-04-data-story-1/image.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+</figure>
+</div>
+
+
+
+ ]]></description>
+  <guid>https://your-website-url.example.com/posts/2026-05-04-data-story-1/</guid>
+  <pubDate>Mon, 04 May 2026 05:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>
